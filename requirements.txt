@@ -1,0 +1,6 @@
+pandas
+ipykernel
+seaborn
+numpy
+psycopg2-binary
+sqlalchemy

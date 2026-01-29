@@ -1,0 +1,13 @@
+# Conda / virtual envs
+env/
+venv/
+.venv/
+conda-env/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
